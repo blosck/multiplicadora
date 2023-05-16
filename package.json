@@ -1,0 +1,16 @@
+{
+  "name": "bases-node",
+  "version": "0.0.7",
+  "description": "Es una multiplicadora",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base11": "node app --base=11"
+  },
+  "author": "Pablo Perez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.0.0",
+    "yargs": "^17.7.2"
+  }
+}
